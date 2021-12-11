@@ -1,4 +1,12 @@
 ### Ola, sou kelvin e tenho 21 anos. Estou estudando programção a pelo menos 8 meses. Curso Ciência da Computação e já me identifiquei bastante com a área.
+netlify deploys
+ - <h4>https://timerclockel.netlify.app</h4>         
+ - <h4>https://calculadoraimckel.netlify.app</h4>
+end. 
+
+
+
+
 
 <a href="https://www.linkedin.com/in/kelvin-dias-moreira-b18247223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:kelvingremista2015@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
