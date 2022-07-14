@@ -1,4 +1,4 @@
-### Ola, sou kelvin e tenho 21 anos. Estou estudando programção a pelo menos 8 meses. Curso Ciência da Computação e já me identifiquei bastante com a área.
+### Ola, sou kelvin, tenho 22 anos e estou em busca de uma oportunidade na área da TI.
 netlify deploys
  - <h4>https://timerclockel.netlify.app</h4>         
  - <h4>https://calculadoraimckel.netlify.app</h4>
@@ -13,7 +13,6 @@ end.
 
 - 🌱 Estudando JavaScript - ReactJs
 - 📫 Contato: kelvingremista2015@hotmail.com
-- 💻 Ciência da Computação - UNESC
 
 ## Teconologias:
 
