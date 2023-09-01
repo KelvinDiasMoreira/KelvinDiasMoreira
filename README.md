@@ -1,7 +1,4 @@
-### Ola, sou kelvin e tenho 22 anos.
-
-
-
+### Olá, sou kelvin e tenho 23 anos.
 
 <a href="https://www.linkedin.com/in/kelvin-dias-moreira-b18247223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:kelvingremista2015@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -9,7 +6,7 @@
 - 🌱 Estudando JavaScript - ReactJs - Typescript
 - 📫 Contato: kelvingremista2015@hotmail.com
 
-## Teconologias:
+## Tecnologias:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
