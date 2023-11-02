@@ -106,12 +106,11 @@
 </table>
 <br><br>
 
-<p align="center">
+<!-- <p align="center">
     <a href="">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelvindiasmoreira&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
-</p>
-
+</p> -->
 
 #### Web Host
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
