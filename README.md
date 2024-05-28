@@ -82,9 +82,6 @@
 #### Web Host
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
-#### CD
-![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
-
 #### Data base
 ![Mysql](https://img.shields.io/badge/-Mysql-000?style=for-the-badge&logo=Mysql)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?style=for-the-badge&logo=Postgresql)
